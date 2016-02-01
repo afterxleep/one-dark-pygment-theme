@@ -2,8 +2,6 @@
 
 Based on atom's one-dark theme
 
-===============
-
 Base theme for Javascript, SASS, PHP and HTML by [Matt 
 Kersley](https://mattkersley.com)
 
